@@ -1,2 +1,2 @@
 # instagram-bot
-Improving my abilities with Python creating an Instagram Bot.
+Improving my habilities with Python creating an Instagram Bot.
